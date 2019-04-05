@@ -169,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #4d0e96 !important;
-  border-color: #4d0e96 !important;
+  background-color: #c92319 !important;
+  border-color: #c92319 !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -178,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #290750 !important;
-  border-color: #290750 !important;
+  background-color: #851711 !important;
+  border-color: #851711 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #290750 !important;
-  border-color: #290750 !important;
+  background-color: #851711 !important;
+  border-color: #851711 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -333,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #1d0539;
-  color: #1d0539;
+  border-color: #6e130e;
+  color: #6e130e;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #4d0e96;
-  border-color: #4d0e96;
+  background-color: #c92319;
+  border-color: #c92319;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #4d0e96 !important;
-  border-color: #4d0e96 !important;
+  background-color: #c92319 !important;
+  border-color: #c92319 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -468,7 +468,7 @@ body {
   color: #4d0e96 !important;
 }
 .text-secondary {
-  color: #4d0e96 !important;
+  color: #c92319 !important;
 }
 .text-success {
   color: #08cbfe !important;
@@ -494,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #1d0539 !important;
+  color: #6e130e !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1395,7 +1395,7 @@ body {
   border-top-color: #4d0e96;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/img-92-2000x1333.jpg");
+  background-image: url("../../../assets/images/trai-he-cap-2-3-02-2-2000x733.jpg");
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
@@ -1864,7 +1864,7 @@ body {
   }
 }
 .cid-rkSkqTtZP0 B {
-  color: #232323;
+  color: #c92319;
 }
 .cid-rkSkotlb6m {
   padding-top: 30px;
